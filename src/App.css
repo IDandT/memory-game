@@ -1,0 +1,21 @@
+body {
+  box-sizing: border-box;
+  background-color: #200020;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  width: 100vw;
+  height: 100vh;
+  /* padding: 50px 0px; */
+  margin: 0;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bolder;
+  margin: 0px;
+}
