@@ -1,7 +1,7 @@
 # Memory Game
 
 <center>
-<img src="media/gameplay.gif" />
+<img src="media/gameplay.gif" width="500"/>
 </center>
 
 ## Description
