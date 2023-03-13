@@ -1,8 +1,6 @@
 # Memory Game
 
-<center>
-<img src="media/gameplay.gif" width="500"/>
-</center>
+<img align="middle" src="media/gameplay.gif" width="600"/>
 
 ## Description
 
