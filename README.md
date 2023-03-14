@@ -11,8 +11,7 @@ A simply memory card game where you need to match pairs by turn over 2 cards at 
 Programmed with React for learning pourposes only.
 
 You can test game here:
-
-<a href="https://lambent-meringue-441696.netlify.app/" target="_blank">Play Memory Game!</a>
+[Memory Game](https://lambent-meringue-441696.netlify.app/)
 
 ## Tools
 
