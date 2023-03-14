@@ -12,7 +12,7 @@ Programmed with React for learning pourposes only.
 
 You can test game here:
 
-[Memory Game](https://lambent-meringue-441696.netlify.app/)
+<a href="https://lambent-meringue-441696.netlify.app/" target="_blank">Play Memory Game!</a>
 
 ## Tools
 
