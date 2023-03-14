@@ -10,6 +10,9 @@ A simply memory card game where you need to match pairs by turn over 2 cards at 
 
 Programmed with React for learning pourposes only.
 
+You can test game here:
+[https://lambent-meringue-441696.netlify.app/]
+
 ## Tools
 
 - Developed with Vite + React
